@@ -1,6 +1,6 @@
 # Matrix Profile
 
-This repository contains project outcomes conducted by David Chen, [Taemin Heo](taeminheo.com) and [Dr. Lance Manuel](https://lancemanuel.netlify.app/) during Spring 2021 at the University of Texas at Austin.
+This repository contains project outcomes conducted by David Chen, [Taemin Heo](http::/taeminheo.com) and [Dr. Lance Manuel](https::/lancemanuel.netlify.app/) during Spring 2021 at the University of Texas at Austin.
 We explored trends and anomalies in ocean data.
 For the exploration, we studied Matrix Profile which identifies motifs (a repeated pattern in a time series) and discords (an anomaly).
 
