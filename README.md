@@ -4,6 +4,11 @@ This repository contains project outcomes conducted by David Chen, [Taemin Heo](
 We explored trends and anomalies in ocean data.
 For the exploration, we studied Matrix Profile which identifies motifs (a repeated pattern in a time series) and discords (an anomaly).
 
+## Hadley Centre Central England Temperature (HadCET) dataset Demo
+[Jupyter notebook](HadCET_Demo.ipynb) summarizes our analysis on the [HadCET dataset](https://www.metoffice.gov.uk/hadobs/hadcet/). We organized the dataset and setup [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies.   
+ ![HadCET_Demo_Motif](/images/HadCET_Demo_Motif.png)
+ ![HadCET_Demo_Discord](/images/HadCET_Demo_Discord.png)
+
 ## Reference Links
 ### Matrix Profile
 https://towardsdatascience.com/introduction-to-matrix-profiles-5568f3375d90   
