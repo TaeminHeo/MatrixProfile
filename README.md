@@ -5,11 +5,18 @@ We explored trends and anomalies in ocean data.
 For the exploration, we studied Matrix Profile which identifies motifs (a repeated pattern in a time series) and discords (an anomaly).
 
 ## Hadley Centre Central England Temperature (HadCET) dataset Demo
-[HadCET_Demo.ipynb](HadCET_Demo.ipynb) summarizes our analysis on the [HadCET dataset](https://www.metoffice.gov.uk/hadobs/hadcet/). We organized the dataset and setup [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies. 
+[HadCET_Demo.ipynb](HadCET_Demo.ipynb) summarizes our analysis on the [HadCET dataset](https://www.metoffice.gov.uk/hadobs/hadcet/). We organized the dataset and setup [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies of HadCET. 
 
  ![HadCET_Demo_Motif](/images/HadCET_Demo_Motif.png)
  
  ![HadCET_Demo_Discord](/images/HadCET_Demo_Discord.png)
+ 
+## National Data Buoy Center (NDBC) dataset Demo
+[NDBC_Demo.ipynb](NDBC_Demo.ipynb) summarizes our analysis on the [NDBC dataset](https://www.ndbc.noaa.gov/). We retrieved the dataset and setup [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies of ocean wave stiffness. 
+
+ ![OceanWaveStiffness_Demo_Motif](/images/NDBC_Demo_Motif.png)
+ 
+ ![OceanWaveStiffness_Demo_Discord](/images/NDBC_Demo_Discord.png)
 
 ## Reference Links
 ### Matrix Profile
