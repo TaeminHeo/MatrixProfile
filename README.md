@@ -7,28 +7,28 @@ For the exploration, we studied Matrix Profile which identifies motifs (a repeat
 ## Hadley Centre Central England Temperature (HadCET) Dataset Demo
 [HadCET_Demo.ipynb](HadCET_Demo.ipynb) summarizes our analysis of the [HadCET dataset](https://www.metoffice.gov.uk/hadobs/hadcet/). We organized the dataset and set up [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies of HadCET. 
 
- ![HadCET_Demo_Motif](/images/HadCET_Demo_Motif.png)
+ ![HadCET_Demo_Motif](/images/HadCET_Demo_Motif.jpg)
  
- ![HadCET_Demo_Discord](/images/HadCET_Demo_Discord.png)
+ ![HadCET_Demo_Discord](/images/HadCET_Demo_Discord.jpg)
  
 ## National Data Buoy Center (NDBC) Dataset Demo
 [NDBC_Demo.ipynb](NDBC_Demo.ipynb) summarizes our analysis of the [NDBC dataset](https://www.ndbc.noaa.gov/). We retrieved the dataset and set up [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html) for analyzing Motifs and Anomalies of ocean wave stiffness. 
 
- ![OceanWaveStiffness_Demo_Motif](/images/NDBC_Demo_Motif.png)
+ ![OceanWaveStiffness_Demo_Motif](/images/NDBC_Demo_Motif.jpg)
  
- ![OceanWaveStiffness_Demo_Discord](/images/NDBC_Demo_Discord.png)
+ ![OceanWaveStiffness_Demo_Discord](/images/NDBC_Demo_Discord.jpg)
  
 ## Scotland Metocean dataset Demo - Testing Different Window Size 
 [Scotland_WindowSize.ipynb](Scotland_WindowSize.ipynb) summarizes our analysis of the [Scotland Metocean dataset](https://ieeexplore.ieee.org/abstract/document/9389310). For this demo, we tested how different lengths of windows affect the detected Motifs of significant wave height and wind speed.
 
 ### Significant wave height
- ![Hs_1week_Motif](/images/Hs_Motif_1week.png)
+ ![Hs_1week_Motif](/images/Hs_Motif_1week.jpg)
  
- ![Hs_1day_Motif](/images/Hs_Motif_1day.png)
+ ![Hs_1day_Motif](/images/Hs_Motif_1day.jpg)
  
- ![V10_1week_Motif](/images/V10_Motif_1week.png)
+ ![V10_1week_Motif](/images/V10_Motif_1week.jpg)
  
- ![V10_1day_Motif](/images/V10_Motif_1day.png)
+ ![V10_1day_Motif](/images/V10_Motif_1day.jpg)
  
  
 ## Reference Links
