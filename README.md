@@ -19,9 +19,18 @@ For the exploration, we studied Matrix Profile which identifies motifs (a repeat
  ![OceanWaveStiffness_Demo_Discord](/images/NDBC_Demo_Discord.png)
  
 ## Scotland Metocean dataset Demo - Testing Different Window Size 
-[Scotland_WindowSize.ipynb](NDBC_Demo.ipynb) summarizes our analysis of the [Scotland Metocean dataset](https://ieeexplore.ieee.org/abstract/document/9389310). For this demo, we tested how different lengths of windows affect the detected Motifs of significant wave height and wind speed.
+[Scotland_WindowSize.ipynb](Scotland_WindowSize.ipynb) summarizes our analysis of the [Scotland Metocean dataset](https://ieeexplore.ieee.org/abstract/document/9389310). For this demo, we tested how different lengths of windows affect the detected Motifs of significant wave height and wind speed.
 
-
+### Significant wave height
+ ![Hs_1week_Motif](/images/Hs_Motif_1week.png)
+ 
+ ![Hs_1day_Motif](/images/Hs_Motif_1day.png)
+ 
+ ![V10_1week_Motif](/images/V10_Motif_1week.png)
+ 
+ ![V10_1day_Motif](/images/V10_Motif_1day.png)
+ 
+ 
 ## Reference Links
 ### Matrix Profile
 https://towardsdatascience.com/introduction-to-matrix-profiles-5568f3375d90   
